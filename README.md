@@ -6,7 +6,7 @@ Include the date you created this project and README file.
 ### Project Title : Git Hub Course Final Project - https://github.com/JDPerfect/pdsnd_github.git
 Replace the Project Title
 
-### Description : Git Hub commands
+### Description : Git Hub commands for the project
 Describe what your project is about and what it does
 
 ### Files used: bikeshare.py, chicago, new_york_city, washington,ReadMe.md
